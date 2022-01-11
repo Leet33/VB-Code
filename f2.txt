@@ -1,3 +1,7 @@
 "hello world"
 
+<<<<<<< HEAD
 upload this to git hub at 10:57am
+=======
+this is modified online...will it allow an update?
+>>>>>>> 2ffcb2ac673811c8246b2febcbe28338e40da287
